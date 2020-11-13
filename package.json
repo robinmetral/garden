@@ -1,0 +1,15 @@
+{
+  "name": "garden",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {},
+  "keywords": [
+    "foam"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "(cd _layouts/ && npm run develop)"
+  }
+}
