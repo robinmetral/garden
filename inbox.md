@@ -9,6 +9,7 @@ tags: [to-read]
 - Substack critique (?) https://hunterwalk.medium.com/why-a-paid-newsletter-wont-be-enough-money-for-most-writers-and-that-s-fine-the-multi-sku-f41daa074cdb
 - Future of newsletters https://www.conordewey.com/blog/future-of-newsletters/
 - https://sentiers.media/dispatch-11-bundles-one-of-the-futures-of-newsletters/
+- The Substackerati (read again) https://www.cjr.org/special_report/substackerati.php
 
 ## About Tiktok
 
@@ -33,8 +34,11 @@ tags: [to-read]
 - Opportunity in social audio: https://digitalnative.substack.com/p/the-opportunity-in-social-audio
 - [Watch] Li Jin interview on the passion economy https://www.youtube.com/watch?v=MSk4ZzPW2Tg
 - Creating content is for the 1% https://koodos.substack.com/p/-creating-content-is-for-the-1
+- On OpenStreetMap https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
+- Review of Where is my flying car https://rootsofprogress.org/where-is-my-flying-car
+- Creators, future of work https://digitalnative.substack.com/p/roblox-airtable-and-the-building
 
-## Environment
+## Environment
 
 - Corporations behind climate change (data viz): https://parametric.press/issue-02/corporations/
 - Dawn of the Heliocene http://nautil.us/issue/90/something-green/dawn-of-the-heliocene (via FutureCrunch)
@@ -43,11 +47,10 @@ tags: [to-read]
 
 - https://theconvivialsociety.substack.com/p/common-worlds-common-sense-and-the (convivial society newsletter)
 - https://theconvivialsociety.substack.com/p/structurally-induced-acedia (convivial society newsletter)
-- Relire https://theconvivialsociety.substack.com/p/when-the-timeline-becomes-our-sidewalk
-
-## Creators, future of work
-
-- https://digitalnative.substack.com/p/roblox-airtable-and-the-building
+- https://theconvivialsociety.substack.com/p/when-the-timeline-becomes-our-sidewalk (to read again)
+- Kneeling bus newsletter on internet inverting the indoor and outdoor spaces https://kneelingbus.substack.com/p/143-rainbow-in-the-dark
+- https://reallifemag.com/home-body/
+- https://www.noemamag.com/building-back-better/
 
 ## Web, digital gardens
 
