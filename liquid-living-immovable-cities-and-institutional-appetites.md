@@ -2,9 +2,8 @@
 source: https://rethinking.re/blog/liquid-living-immovable-cities-and-institutional-appetites/
 author: Dror Poleg
 read: 2020-11-25
+tags: [to-process]
 ---
-
-#ToProcess
 
 # Liquid Living, Immovable Cities, and Institutional Appetites
 

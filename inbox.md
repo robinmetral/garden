@@ -1,6 +1,8 @@
-# Reading Inbox
+---
+tags: [to-read]
+---
 
-#ToRead
+# Reading Inbox
 
 ## About newsletters
 
@@ -24,6 +26,7 @@
 - Your life is driven by network effects: https://www.nfx.com/post/your-life-network-effects/ (via Oversimplified newsletter)
 - Big questions: https://www.collaborativefund.com/blog/i-have-a-few-questions/ (via Rational Creatives newsletter)
 - [Listen] talk with a chess master on the Tim Ferriss podcast https://tim.blog/2016/03/23/josh-waitzkin-the-prodigy-returns/ (recommended in Check Your Pulse)
+- Procrastilearning https://www.yuejun.io/blog/procasti-learning
 
 ## Economics, tech
 

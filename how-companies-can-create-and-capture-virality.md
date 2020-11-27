@@ -3,9 +3,8 @@ source: https://digitalnative.substack.com/p/how-companies-can-create-and-captur
 author: Rex Woodbury
 published: 2020-11-18
 read: 2020-11-26
+tags: [to-process]
 ---
-
-#ToProcess
 
 # How Companies Can Create and Capture Virality
 
