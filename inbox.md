@@ -10,6 +10,7 @@ tags: [to-read]
 - Future of newsletters https://www.conordewey.com/blog/future-of-newsletters/
 - https://sentiers.media/dispatch-11-bundles-one-of-the-futures-of-newsletters/
 - The Substackerati (read again) https://www.cjr.org/special_report/substackerati.php
+- Craig Mod on newsletters: https://craigmod.com/essays/newsletters/
 
 ## About Tiktok
 
@@ -51,8 +52,3 @@ tags: [to-read]
 - Kneeling bus newsletter on internet inverting the indoor and outdoor spaces https://kneelingbus.substack.com/p/143-rainbow-in-the-dark
 - https://reallifemag.com/home-body/
 - https://www.noemamag.com/building-back-better/
-
-## Web, digital gardens
-
-- https://matthiasott.com/articles/into-the-personal-website-verse
-- http://snarkmarket.com/2010/4890
