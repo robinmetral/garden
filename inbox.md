@@ -6,8 +6,6 @@ tags: [to-read]
 
 ## About newsletters
 
-- Substack critique (?) https://hunterwalk.medium.com/why-a-paid-newsletter-wont-be-enough-money-for-most-writers-and-that-s-fine-the-multi-sku-f41daa074cdb
-- Future of newsletters https://www.conordewey.com/blog/future-of-newsletters/
 - https://sentiers.media/dispatch-11-bundles-one-of-the-futures-of-newsletters/
 - The Substackerati (read again) https://www.cjr.org/special_report/substackerati.php
 - Craig Mod on newsletters: https://craigmod.com/essays/newsletters/
@@ -38,11 +36,6 @@ tags: [to-read]
 - On OpenStreetMap https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
 - Review of Where is my flying car https://rootsofprogress.org/where-is-my-flying-car
 - Creators, future of work https://digitalnative.substack.com/p/roblox-airtable-and-the-building
-
-## Environment
-
-- Corporations behind climate change (data viz): https://parametric.press/issue-02/corporations/
-- Dawn of the Heliocene http://nautil.us/issue/90/something-green/dawn-of-the-heliocene (via FutureCrunch)
 
 ## Society
 
