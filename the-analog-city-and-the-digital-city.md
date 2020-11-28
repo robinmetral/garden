@@ -1,6 +1,7 @@
 ---
 source: https://www.thenewatlantis.com/publications/the-analog-city-and-the-digital-city
 author: L. M. Sacasas
+published: 2020-00-00
 read: 2020-11-20
 tags: [to-process]
 ---
